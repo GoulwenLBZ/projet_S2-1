@@ -1,0 +1,9 @@
+BME.c:15:6:confBMEI2C	24	static
+BME.c:33:6:DONNEES_BRUTES	40	static
+BME.c:85:7:Calcul_temp	48	static
+BME.c:105:7:Calcul_hygro	48	static
+BME.c:133:7:Calcul_press	40	static
+BME.c:227:6:par_t	32	static
+BME.c:254:6:par_p	32	static
+BME.c:333:6:par_gh	24	static
+BME.c:359:6:par_h	32	static
